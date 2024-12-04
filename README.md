@@ -1,4 +1,5 @@
 # Aplicacion-Farmacias-Zaragoza
+Hecho por: Alberto Valera
 
 Aplicacion-Farmacias-Zaragoza es una aplicación de Android que muestra una lista de farmacias y sus ubicaciones en un mapa utilizando OpenStreetMap (OSMDroid) y Firebase para el almacenamiento de datos.
 
