@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973317572650",
+    "project_id": "farmaciaszaragoza-d7a77",
+    "storage_bucket": "farmaciaszaragoza-d7a77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973317572650:android:348eef268b473d17421b53",
+        "android_client_info": {
+          "package_name": "com.example.aplicacion3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJWyLtNVwGJVGyB-QpMqozae9jKzOo1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
